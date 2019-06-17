@@ -1,0 +1,26 @@
+{
+  "name": "bug-free-journey",
+  "version": "1.0.0",
+  "description": "A code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zedd45/bug-free-journey.git"
+  },
+  "author": "christopher.keen@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/zedd45/bug-free-journey/issues"
+  },
+  "homepage": "https://github.com/zedd45/bug-free-journey#readme",
+  "devDependencies": {
+    "jest": "24.8.x",
+    "prettier": "^1.18.2"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
